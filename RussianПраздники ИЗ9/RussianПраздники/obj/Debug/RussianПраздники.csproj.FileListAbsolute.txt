@@ -1,0 +1,33 @@
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.csprojAssemblyReference.cache
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.Form1.resources
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.Form2.resources
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.Properties.Resources.resources
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.csproj.GenerateResource.cache
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.csproj.CoreCompileInputs.cache
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\bin\Debug\RussianПраздники.exe.config
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\bin\Debug\RussianПраздники.exe
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\bin\Debug\RussianПраздники.pdb
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.exe
+C:\Users\229194-13\source\repos\RussianПраздники\RussianПраздники\obj\Debug\RussianПраздники.pdb
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\bin\Debug\RussianПраздники.exe.config
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\bin\Debug\RussianПраздники.exe
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\bin\Debug\RussianПраздники.pdb
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.csprojAssemblyReference.cache
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.Form1.resources
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.Form2.resources
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.Properties.Resources.resources
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.csproj.GenerateResource.cache
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.csproj.CoreCompileInputs.cache
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.exe
+H:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.pdb
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\bin\Debug\RussianПраздники.exe.config
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\bin\Debug\RussianПраздники.exe
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\bin\Debug\RussianПраздники.pdb
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.csprojAssemblyReference.cache
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.Form1.resources
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.Form2.resources
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.Properties.Resources.resources
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.csproj.GenerateResource.cache
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.csproj.CoreCompileInputs.cache
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.exe
+F:\РПМ\RussianПраздники ИЗ9\RussianПраздники\obj\Debug\RussianПраздники.pdb
